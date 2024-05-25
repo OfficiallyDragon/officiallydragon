@@ -4,6 +4,9 @@
 - 🌱 I’m currently learning. [Java](https://docs.oracle.com/en/java/)!
 - 📫 Check out my [website](https://dexterwheatcroft.uk)!
 
+- 🔗Code Quality
+ - Endified: [![CodeFactor](https://www.codefactor.io/repository/github/officiallydragon/endified/badge)](https://www.codefactor.io/repository/github/officiallydragon/endified)
+
 <!--
 **OfficiallyDragon/OfficiallyDragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
