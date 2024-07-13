@@ -6,7 +6,7 @@ order: 2
 
 - 👋 Hi, I’m Dexter Wheatcroft
 - 👀 I’m interested in Game dev + more!
-- 🔭 I’m currently working on [Endified](https://github.com/officiallydragon/endified)
+- 🔭 I’m currently working on [The Slimelympics](https://github.com/officiallydragon/slimeslympics)
 - 🌱 I’m currently learning. [Java](https://docs.oracle.com/en/java/)!
 
 <!--
