@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @OfficiallyDragon
 - 👀 I’m interested in Game dev + more!
-- 🔭 I’m currently working on [The Slimelympics](https://github.com/officiallydragon/slimelympics)
-- 🌱 I’m currently learning. [Java](https://docs.oracle.com/en/java/)!
-- 📫 Check out my [website](https://dexterwheatcroft.uk)!
+- 🔭 I’m currently working on Something.
+- 🌱 I’m currently learning Nothing 💀
+- 📫 Check out my website (Oh wait, I dont have one)!
 
 <!--
 **OfficiallyDragon/OfficiallyDragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
